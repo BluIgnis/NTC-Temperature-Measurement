@@ -55,6 +55,8 @@ The report includes simulations and measurements of the individual stages, follo
 
 ## Available material
 
+[Read the original report (Portuguese, PDF)](docs/report/NTC-Temperature-Measurement-report.pdf).
+
 This is a documentation repository recovered from the group's original report. The Arduino source, LabVIEW project and editable circuit and simulation files are no longer available. The images show the original work; they have not been redrawn or presented as new measurements.
 
 See [material sources and figure references](docs/SOURCES.md) for the report page associated with each image.

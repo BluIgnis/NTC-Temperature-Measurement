@@ -2,7 +2,7 @@
 
 The material was recovered from the group report *NTC - Aplicação para o controlo da temperatura no armazenamento de vinho*, for the Applied Electronics course at ISEP.
 
-This repository contains original figure images and a short English summary. It does not include the report PDF, Arduino source, LabVIEW project or editable simulation files.
+This repository includes the [original report in Portuguese](report/NTC-Temperature-Measurement-report.pdf), the recovered figure images and a short English summary. The Arduino source, LabVIEW project and editable simulation files are no longer available.
 
 ## Figure references
 
